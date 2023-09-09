@@ -1,7 +1,7 @@
 # WheresMyHamster
 Our graduation project of an English learning game for children.
 
-## Member
+## Members
 
 [Lê Hoàng Thiên Ân](https://github.com/lehoangthienan2307)
 
@@ -11,10 +11,10 @@ Our graduation project of an English learning game for children.
 
 [Hoàng Thiện](https://github.com/Shenronis)
 
-## Library 
+## Libraries
 [VContainer](https://github.com/hadashiA/VContainer), [MessagePipe](https://github.com/Cysharp/MessagePipe), [Addler](https://github.com/Haruma-K/Addler)
 
-## Asset
+## Assets
 
 Mostly free student packs from [Synty](https://assetstore.unity.com/publishers/5217) and others.
 
