@@ -12,7 +12,7 @@ Our graduation project of an English learning game for children.
 [Hoàng Thiện](https://github.com/Shenronis)
 
 ## Libraries
-[VContainer](https://github.com/hadashiA/VContainer), [MessagePipe](https://github.com/Cysharp/MessagePipe), [Addler](https://github.com/Haruma-K/Addler)
+[VContainer](https://github.com/hadashiA/VContainer), [MessagePipe](https://github.com/Cysharp/MessagePipe), [Addler](https://github.com/Haruma-K/Addler), [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595).
 
 ## Assets
 
