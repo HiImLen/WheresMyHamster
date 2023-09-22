@@ -34,6 +34,9 @@ There are various functions that will be executed on our server (Cloudscript Pla
 ## Optimization
 Lightmap baking and atlas texture are used to reduce as much draw calls as possible.
 
+## Localization
+Support English and Vietnamese.
+
 ## Poster
 ![Frame 1-min](https://github.com/nmkha16/WheresMyHamster/assets/91834063/b7ed9663-f69e-41c9-9c4b-91e51c3eb565)
 
