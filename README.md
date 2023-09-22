@@ -36,3 +36,19 @@ Lightmap baking and atlas texture are used to reduce as much draw calls as possi
 
 ## Poster
 ![Frame 1-min](https://github.com/nmkha16/WheresMyHamster/assets/91834063/b7ed9663-f69e-41c9-9c4b-91e51c3eb565)
+
+## Demo
+### Main Menu
+![mainroom](https://github.com/nmkha16/WheresMyHamster/assets/91834063/36f77b7d-4705-4f0d-a831-5d80cc6e5d06)
+
+### Main Level
+![mainlevel](https://github.com/nmkha16/WheresMyHamster/assets/91834063/ec33e1c2-0b20-48ff-8c33-746a5b75fc10)
+
+### Character Customization
+![customize](https://github.com/nmkha16/WheresMyHamster/assets/91834063/588e7626-5d66-4413-b4f9-c60b39de0b8b)
+
+### Shop
+![image](https://github.com/nmkha16/WheresMyHamster/assets/91834063/ac26b9d0-19b6-4272-bde2-ba1bb7275f7a)
+
+### Minigames
+Gameplay of our minigames in here [Google Drive](https://drive.google.com/drive/folders/1pp9bKzXMhJvZYwF0q82S_-S64uw_12Lu?usp=sharing).
