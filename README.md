@@ -1,6 +1,9 @@
 # WheresMyHamster
 Our graduation project of an English learning game for children.
 
+### Poster
+![Frame 1-min](https://github.com/nmkha16/WheresMyHamster/assets/91834063/b7ed9663-f69e-41c9-9c4b-91e51c3eb565)
+
 ## Members
 
 [Lê Hoàng Thiên Ân](https://github.com/lehoangthienan2307)
@@ -36,9 +39,6 @@ Lightmap baking and atlas texture are used to reduce as much draw calls as possi
 
 ## Localization
 Support English and Vietnamese.
-
-## Poster
-![Frame 1-min](https://github.com/nmkha16/WheresMyHamster/assets/91834063/b7ed9663-f69e-41c9-9c4b-91e51c3eb565)
 
 ## Demo
 ### Main Menu
