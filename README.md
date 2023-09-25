@@ -1,5 +1,5 @@
 # WheresMyHamster
-Our graduation project of an English learning game for children.
+Our graduation project of an English learning game for children. Released on Playstore for Android and Appstore for IOS.
 
 ### Poster
 ![Frame 1-min](https://github.com/nmkha16/WheresMyHamster/assets/91834063/b7ed9663-f69e-41c9-9c4b-91e51c3eb565)
