@@ -53,5 +53,8 @@ Support English and Vietnamese.
 ### Shop
 ![image](https://github.com/nmkha16/WheresMyHamster/assets/91834063/ac26b9d0-19b6-4272-bde2-ba1bb7275f7a)
 
+### Whiteboard
+![2023-09-26 19-37-07](https://github.com/nmkha16/WheresMyHamster/assets/91834063/87da0934-d2a8-486d-bf24-10b7d9223e5e)
+
 ### Minigames
 Gameplay of our minigames in here [Google Drive](https://drive.google.com/drive/folders/1pp9bKzXMhJvZYwF0q82S_-S64uw_12Lu?usp=sharing).
