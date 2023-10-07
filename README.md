@@ -35,7 +35,7 @@ We use PlayFab to store our user data and synchronizing them on the fly.
 There are various functions that will be executed on our server (Cloudscript PlayFab and Azure Functions) to prevent untrusted clients (cheating...).
 
 ## Optimization
-Lightmap baking and atlas texture are used to reduce as much draw calls as possible.
+Light baking, sprite atlas and mesh combing are used to reduce as much draw calls as possible.
 
 ## Localization
 Support English and Vietnamese.
